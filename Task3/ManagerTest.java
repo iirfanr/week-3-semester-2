@@ -1,4 +1,4 @@
-package Task3;
+package Task3;  
 
 public class ManagerTest {
     public static void main(String[] args) {
